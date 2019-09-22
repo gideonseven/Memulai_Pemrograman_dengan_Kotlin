@@ -1,0 +1,58 @@
+# Project exclude paths
+/.gradle/
+/Control Flow/Latihan/Latihan/build/
+/Control Flow/Latihan/Latihan/build/classes/java/main/
+/Control Flow/Range and For loop/ForEachIndexed/build/
+/Control Flow/Range and For loop/ForEachIndexed/build/classes/java/main/
+/Control Flow/Range and For loop/Range ForEach/build/
+/Control Flow/Range and For loop/Range ForEach/build/classes/java/main/
+/Coroutines/Channels/Contoh/build/
+/Coroutines/Channels/Contoh/build/classes/java/main/
+/Coroutines/latihan/Latihan/build/
+/Coroutines/latihan/Latihan/build/classes/java/main/
+/Coroutines/Memulai Coroutine/Contoh 1/build/
+/Coroutines/Memulai Coroutine/Contoh 1/build/classes/java/main/
+/Coroutines/Memulai Coroutine/Contoh 2/build/
+/Coroutines/Memulai Coroutine/Contoh 2/build/classes/java/main/
+/Data Class dan Collections/Collections/Maps/build/
+/Data Class dan Collections/Collections/Maps/build/classes/java/main/
+/Data Class dan Collections/Collections Operations/filter and filterNot/build/
+/Data Class dan Collections/Collections Operations/filter and filterNot/build/classes/java/main/
+/Data Class dan Collections/Latihan/latihan/build/
+/Data Class dan Collections/Latihan/latihan/build/classes/java/main/
+/Functional/Advanced Collection Function/Take/build/
+/Functional/Advanced Collection Function/Take/build/classes/java/main/
+/Functional/Latihan/Latihan/build/
+/Functional/Latihan/Latihan/build/classes/java/main/
+/Functional/Library Helper/with/build/
+/Functional/Library Helper/with/build/classes/java/main/
+/Functional/Member References/Property References/build/
+/Functional/Member References/Property References/build/classes/java/main/
+/Functional/Named and Default Argument/Contoh 3/build/
+/Functional/Named and Default Argument/Contoh 3/build/classes/java/main/
+/Functional/Named and Default Argument/Contoh 4/build/
+/Functional/Named and Default Argument/Contoh 4/build/classes/java/main/
+/Functional/Scope Function with Lambda Receiver/apply/build/
+/Functional/Scope Function with Lambda Receiver/apply/build/classes/java/main/
+/Generics/Generics/Contoh 1/build/
+/Generics/Generics/Contoh 1/build/classes/java/main/
+/Generics/Generics/Contoh 2/build/
+/Generics/Generics/Contoh 2/build/classes/java/main/
+/Generics/Generics/Contoh 3/build/
+/Generics/Generics/Contoh 3/build/classes/java/main/
+/Generics/Latihan/Latihan/build/
+/Generics/Latihan/Latihan/build/classes/java/main/
+/Generics/Variance/Contoh/build/
+/Generics/Variance/Contoh/build/classes/java/main/
+/Kotlin Fundamental/Latihan/Latihan/build/
+/Kotlin Fundamental/Latihan/Latihan/build/classes/java/main/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/build/
+/Kotlin Fundamental/Safe Call and Elvis Operator/Elvis Operator/build/classes/java/main/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/classes/java/main/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/classes/java/main/
+/Object-Oriented/Abstract Class/Contoh/build/
+/Object-Oriented/Abstract Class/Contoh/build/classes/java/main/
+/Object-Oriented/Latihan/Latihan/build/
+/Object-Oriented/Latihan/Latihan/build/classes/java/main/
